@@ -1,3 +1,6 @@
+A simple project based on simple concepts which help to drive the environment of React done during class.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
