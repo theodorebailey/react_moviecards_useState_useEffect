@@ -1,4 +1,6 @@
-A simple project based on simple concepts which help to drive the environment of React done during class.
+A simple project based on simple concepts which helps to drive the environment of React done during class.
+
+Saved local: ninth-app
 
 
 # Getting Started with Create React App
